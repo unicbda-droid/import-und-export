@@ -22,3 +22,7 @@ Blender addon for importing/exporting `.penger` files.
 ## License
 
 Penger Public License – No copyright.
+https://www.youtube.com/watch?v=qjWkNZ0SXfo&t=163s
+Rotation Matrix:    • Rotation matrix derivation (step-by-step p...  
+Penger Model: https://github.com/Max-Kawula/penger-obj
+Source Code: https://github.com/tsoding/formula
